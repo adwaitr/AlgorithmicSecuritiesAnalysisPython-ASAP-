@@ -1,5 +1,6 @@
 # AlgoTradingPythonBasics
 Plotting and understanding stock data in python. 
+<br>
 Adwait Rangnekar
 Github : https://github.com/adwaitr
 Linkedin : https://www.linkedin.com/in/adwait-rangnekar/
